@@ -7,3 +7,10 @@ In this project, you will be writing code to implement two extensions of our sud
 
 Your goals are to implement the naked twins function, and write an AI agent that will solve the Diagonal Sudoku game.
 
+### [PAC-MAN](https://github.com/ruihanzou/Teaching-Pac-Man-to-Search)
+
+In this lab, you will teach Pac-Man to search his world to complete the following tasks:
+
+find a single obstacle.
+find multiple obstacles.
+find the fastest way to eat all the food in the map.
