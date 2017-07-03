@@ -17,3 +17,11 @@ In this lab, you will teach Pac-Man to search his world to complete the followin
 find a single obstacle.
 find multiple obstacles.
 find the fastest way to eat all the food in the map.
+
+### [Planning](/planning)
+
+In this project, you will define a group of problems in classical PDDL (Planning Domain Definition Language) for the air cargo domain discussed in the lectures. You will then set up the problems for search, experiment with various automatically generated heuristics, including planning graph heuristics, to solve the problems, and then provide an analysis of the results. Additionally, you will write a short research review paper on the historical development of planning techniques and their use in artificial intelligence.
+
+### [Recognizer](/recognizer)
+
+In this project, you will build a system that can recognize words communicated using the American Sign Language (ASL). You will be provided a preprocessed dataset of tracked hand and nose positions extracted from video. Your goal would be to train a set of Hidden Markov Models (HMMs) using part of this dataset to try and identify individual words from test sequences.
