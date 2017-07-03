@@ -134,3 +134,6 @@ Once your project has been reviewed and accepted by meeting all requirements of 
 The competition agent can be submitted using the Udacity project assistant:
 
     udacity submit isolation-pvp
+
+## Code Review
+You can find my project feedback from one of the Udacity reviewers in [here](https://review.udacity.com/#!/reviews/497889/shared)

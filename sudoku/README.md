@@ -39,3 +39,6 @@ If not, please see how to download pygame [here](http://www.pygame.org/download.
 ### Visualizing
 
 To visualize your solution, please only assign values to the values_dict using the ```assign_values``` function provided in solution.py
+
+### Code Review
+You can find my project feedback from one of the Udacity reviewers in [here](https://review.udacity.com/#!/reviews/451359/shared)

@@ -173,3 +173,6 @@ This process will create a zipfile in your top-level directory named cargo_plann
 ## Improving Execution Time
 
 The exercises in this project can take a *long* time to run (from several seconds to a several hours) depending on the heuristics and search algorithms you choose, as well as the efficiency of your own code.  (You may want to stop and profile your code if runtimes stretch past a few minutes.) One option to improve execution time is to try installing and using [pypy3](http://pypy.org/download.html) -- a python JIT, which can accelerate execution time substantially.  Using pypy is *not* required (and thus not officially supported) -- an efficient solution to this project runs in very reasonable time on modest hardware -- but working with pypy may allow students to explore more sophisticated problems than the examples included in the project.
+
+## Code Review
+You can find my project feedback from one of the Udacity reviewers in [here](https://review.udacity.com/#!/reviews/545506/shared)
